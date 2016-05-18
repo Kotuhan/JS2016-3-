@@ -54,6 +54,8 @@ FAQ
 + [quodnon/catwork-js-2016](https://github.com/quodnon/catwork-js-2016.git)
 + [cwayfinder/kottans-js-2016](https://github.com/cwayfinder/kottans-js-2016) 
 + [alexey-kuliw/kottans-homework](https://github.com/alexey-kuliw/kottans-homework.git)  
++ [Kotuhan/kottans_hw](https://github.com/Kotuhan/kottans_hw.git)  
++
 
 ## Kharkiv:
 + [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)  
